@@ -6,32 +6,40 @@
     "submenu": [
       {
         "name": "Who we are",
-        "url": "/about-us",
-        "slug": "about-us",
+        "url": "/sg/about-us/who-we-are",
+        "slug": "who-we-are",
         "status" : "active"
       },
       {
-        "name": "What We Do",
-        "url": "/what-we-do",
-        "slug": "what-we-do",
+        "name": "Awards & Accolades",
+        "url": "/sg/about-us/awards-accolades",
+        "slug": "awards-accolades",
         "status" : "active"
+      }
+    ]
+  },
+  {
+    "name": "Services",
+    "url": "#",
+    "status" : "active",
+    "submenu": [
+      {
+        "name": "GP",
+        "url": "#",
+        "status" : "active",
+        "submenu": [
+          {
+            "name": "Hub @ Hougang Green",
+            "url": "/sg/hub-hougang-green/",
+            "slug": "hub-hougang-green",
+            "status" : "active"
+          }
+        ]
       },
       {
-        "name": "Our Purpose and Shared values",
-        "url": "/our-purpose-and-shared-values",
-        "slug": "our-purpose-and-shared-values",
-        "status" : "active"
-      },
-      {
-        "name": "Management team",
-        "url": "/management-team",
-        "slug": "management-team",
-        "status" : "active"
-      },
-      {
-        "name": "BOARD OF DIRECTORS",
-        "url": "/board-of-director",
-        "slug": "board-of-director",
+        "name": "Specialty Care",
+        "url": "/sg/services/specialty-care/",
+        "slug": "specialty-care",
         "status" : "active"
       }
     ]
@@ -43,25 +51,25 @@
     "submenu": [
       {
         "name": "News & Events",
-        "url": "/category/news-events",
+        "url": "/sg/category/news-events",
         "slug": "news-events",
         "status" : "active"
       },
       {
         "name": "Press Releases",
-        "url": "/category/press-releases",
+        "url": "/sg/category/press-releases",
         "slug": "press-releases",
         "status" : "active"
       },
       {
         "name": "Resources",
-        "url": "/category/resources",
+        "url": "/sg/category/resources",
         "slug": "resources",
         "status" : "active"
       },
       {
         "name": "Improving Digitalisation",
-        "url": "/digital",
+        "url": "/sg/digital",
         "slug": "digital",
         "status" : "active"
       }

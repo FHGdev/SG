@@ -1,7 +1,7 @@
 ---
 import { Icon } from 'astro-icon'
 import Container from '../components/Container.astro';
-import menuData from '../data/menuGroupHeader.json';
+import menuData from '../data/menuHeader.json';
 const { slug } = Astro.params;
 ---
 <script type="module" >
@@ -104,7 +104,7 @@ const { slug } = Astro.params;
                         <ul class="sub-menu-2 sub-menu">
                           {submenuItem.submenu.map(subSubmenuItem => (
                             <li class={` ${subSubmenuItem.slug == slug ? 'active' : '' }`}>
-                              <a href={`${submenuItem.url}`} href={subSubmenuItem.url}>{subSubmenuItem.name}</a>
+                              <a href={`${subSubmenuItem.url}`} href={subSubmenuItem.url}>{subSubmenuItem.name}</a>
                             </li>
                           ))}
                             <li class="back"><a href="#">Back</a></li>
