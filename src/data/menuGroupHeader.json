@@ -1,0 +1,147 @@
+[
+  {
+    "name": "About Us",
+    "url": "#",
+    "status" : "active",
+    "submenu": [
+      {
+        "name": "Who we are",
+        "url": "/about-us",
+        "slug": "about-us",
+        "status" : "active"
+      },
+      {
+        "name": "What We Do",
+        "url": "/what-we-do",
+        "slug": "what-we-do",
+        "status" : "active"
+      },
+      {
+        "name": "Our Purpose and Shared values",
+        "url": "/our-purpose-and-shared-values",
+        "slug": "our-purpose-and-shared-values",
+        "status" : "active"
+      },
+      {
+        "name": "Management team",
+        "url": "/management-team",
+        "slug": "management-team",
+        "status" : "active"
+      },
+      {
+        "name": "BOARD OF DIRECTORS",
+        "url": "/board-of-director",
+        "slug": "board-of-director",
+        "status" : "active"
+      }
+    ]
+  },
+  {
+    "name": "News",
+    "url": "#",
+    "status" : "active",
+    "submenu": [
+      {
+        "name": "News & Events",
+        "url": "/category/news-events",
+        "slug": "news-events",
+        "status" : "active"
+      },
+      {
+        "name": "Press Releases",
+        "url": "/category/press-releases",
+        "slug": "press-releases",
+        "status" : "active"
+      },
+      {
+        "name": "Resources",
+        "url": "/category/resources",
+        "slug": "resources",
+        "status" : "active"
+      },
+      {
+        "name": "Improving Digitalisation",
+        "url": "/digital",
+        "slug": "digital",
+        "status" : "active"
+      }
+    ]
+  },
+  {
+    "name": "community",
+    "url": "/community",
+    "slug": "community",
+    "status" : "active"
+  },
+  {
+    "name": "sustainability",
+    "url": "/sustainability",
+    "slug": "sustainability",
+    "status" : "active"
+  },
+  {
+    "name": "contact us",
+    "url": "/contact-us",
+    "slug": "contact-us",
+    "status" : "active"
+  },
+  {
+      "name": "Country",
+      "url": "#",
+      "status" : "active",
+      "submenu": [
+        {
+          "name": "Singapore",
+          "url": "/sg/",
+          "slug": "sg",
+          "status" : "active"
+        },
+        {
+          "name": "Philippines",
+          "url": "/ph/",
+          "slug": "ph",
+          "status" : "active",
+          "submenu": [
+            {
+              "name": "Avega",
+              "url": "#",
+              "slug": "#",
+              "status" : "active"
+            },
+            {
+              "name": "Intellicare",
+              "url": "#",
+              "slug": "#",
+              "status" : "active"
+            },
+            {
+              "name": "Aventus",
+              "url": "#",
+              "slug": "#",
+              "status" : "active"
+            }
+          ]
+        },
+        {
+          "name": "Indonesia",
+          "url": "https://www.fullertonhealth.co.id/",
+          "slug": "id",
+          "status" : "active"
+        },
+        {
+          "name": "Malaysia",
+          "url": "#",
+          "slug": "my",
+          "status" : "active",
+          "submenu": [
+            {
+              "name": "IHPMY",
+              "url": "https://www.ihpmy.com/",
+              "slug": "ihpmy",
+              "status" : "active"
+            }
+          ]
+        }
+      ]
+  }
+]

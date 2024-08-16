@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Contact Us",
+    "url": "#",
+    "className" : "footer-heading",
+    "slug": "#",
+    "submenu": [
+      {
+        "name": "Online Enquiry",
+        "url": "/contact-us",
+        "slug": "contact-us",
+        "className" : ""
+      }
+    ]
+  },
+  {
+    "name": "About Us",
+    "url": "#",
+    "className" : "footer-heading",
+    "slug": "#",
+    "submenu": [
+      {
+        "name": "Our Purpose and Shared values",
+        "url": "/our-purpose-and-shared-values",
+        "slug": "our-purpose-and-shared-values",
+        "className" : ""
+      },
+      {
+        "name": "BOARD OF DIRECTORS",
+        "url": "/board-of-director",
+        "slug": "board-of-director",
+        "className" : ""
+      },
+      {
+        "name": "Management team",
+        "url": "/management-team",
+        "slug": "management-team",
+        "className" : ""
+      },
+      {
+        "name": "Privacy Policy",
+        "url": "/privacy-policy",
+        "slug": "privacy-policy",
+        "className" : ""
+      }  
+    ]
+  },
+  {
+    "name": "SUBSIDIARIES",
+    "url": "#",
+    "className" : "footer-heading",
+    "slug": "#",
+    "submenu": [
+      {
+        "name": "Comfort Ambulance",
+        "url": "http://comfortambulance.com/",
+        "slug": "#",
+        "className" : ""
+      },
+      {
+        "name": "Radlink",
+        "url": "https://radlink.com.sg/",
+        "slug": "#",
+        "className" : ""
+      },
+      {
+        "name": "UrbanRehab",
+        "url": "https://urbanrehab.com.sg/",
+        "slug": "#",
+        "className" : ""
+      },
+      {
+        "name": " Orchard Heart Specialist",
+        "url": "https://www.orchardheart.com/",
+        "slug": "#",
+        "className" : ""
+      }
+    ]
+  }
+]
